@@ -1,9 +1,4 @@
-<center>
-<b><font size=44px>Welcome to HackLLP I</font></b> 
-<br><br>
-</center>
-
----
+# Welcome to HackLLP I
 
 ## Motivation
 
