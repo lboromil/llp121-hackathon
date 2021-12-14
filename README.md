@@ -57,4 +57,4 @@ sklearn
 
 All datasets used have been scraped from [Kaggle](https://www.kaggle.com). 
 
-#### Made with &#10084;&#65039; &nbsp; by LUL Machine Intelligence Lab
+#### Made with &#10084;&#65039; by LUL Machine Intelligence Lab
