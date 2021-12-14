@@ -14,22 +14,47 @@ One fun and guaranteed way of putting both your current knowledge and gaining ne
 
 This year, as a data-science practitioner enrolled in LLP121 - Principles of Data-Science, you have the chance to get involved in a unique opportunity to put your learnt skills to the test, collaborate, and simply have a good time.
 
+## Instructions
+
+As a group, choose **one** out of three proposed datasets. Once choosen, move onto [Task 1](#task-1). Once completed, move onto [Task 2](#task-2). 
+
+### Tasks
+
+#### Task 1
+
+As a group, prepare a 5-min presentation. The presentation should include the following:
+- Data-cleaning procedure (*optional*)
+- An Explanatory Data Analysis (EDA) on your dataset of choice.
+- Data visualisations
+
+#### Task 2
+
+As a group, apply suitable ML algorithms to your dataset of choice. Prepare a 5-min presentation showcasing your results. The presentation should include the following:
+
+- Define the problem (What are you doing with the data?)
+- Describe the choosen suitable ML algorithms for your problem, how you applied them.
+- Showcase the effectiveness of the algorithm through measurements types learnt.
+
+**Note**: You can define more than one problem to solve, apply multiple algorithms, and more. Your imagination is your only limitation
 ## Requirements
 
 ```
 python>=3.6
-notebook>=
-numpy>=
-matplotlib>=
-seaborn>=
+notebook
+numpy
+pandas
+matplotlib
+sklearn
 ```
-
-## Stack
 
 ## Datasets
 
 1. [Top Video Games 1995-2021 Metacritic](https://www.kaggle.com/deepcontractor/top-video-games-19952021-metacritic)
 2. [Global Food Prices](https://www.kaggle.com/lasaljaywardena/global-food-prices-dataset)
 3. [Netflix Movies and TV Shows](https://www.kaggle.com/lasaljaywardena/global-food-prices-dataset)
+
+## Acknowledgements
+
+All datasets used have been scraped from [Kaggle](https://www.kaggle.com). 
 
 #### Made with &#10084;&#65039; &nbsp; by LUL Machine Intelligence Lab
